@@ -1,0 +1,190 @@
+body{
+	margin: 0;
+	padding: 5px;;
+	
+	margin-bottom: 80px;
+}
+img{
+	max-width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	position:relative;
+	bottom:50px
+	
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #A53011;
+}
+.toque-tela {
+float:left;
+position:relative;
+bottom:50px
+}
+.logo-home{
+position:relative;
+bottom:28px;
+}
+form{
+display:inline;
+}
+.sucess{
+float:right;
+position:relative;
+bottom:17px;
+}
+
+.logo-inova{
+position:relative;
+bottom:29px;
+}
+
+	p.solid {border-style: solid;
+	margin:-3px;
+	}
+
+	
+
+	.cadeado {
+	width: 800px;
+	margin: 0 auto;
+	
+	position:relative;
+	bottom:0px;
+}
+hr
+{
+border: 5px solid black;
+}
+.conteudo{
+	width:800px;
+	margin:0 auto; 
+}
+
+#caneca{
+	width:1904px;
+	height: 300px;
+	position:relative;
+	bottom:50px;
+}
+
+table.classdatabela {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table.classdatabela td, 
+table.classdatabela th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+table.classdatabela tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.rodape{
+	
+	padding: 0px;
+	text-align: center;
+	position: fixed;
+	bottom: 0;	
+	width: 100%;
+	height: 30px;
+	background-color: #e7e7e7;
+	border-top: 1px solid #ddd;
+}
+
+.img-seg{
+	margin: 20px;
+	border: 1px solid none;
+	float:left;	
+}
+
+.img-seg p{		
+	background-color: red;
+	color: #fff;
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 14pt;
+	text-align: center;		
+}
+.clearboth{
+	clear: both;
+}
+
+.red{
+	background-color: red !important;
+}
+.gray{
+	background-color: gray !important;
+}
+.black{
+	background-color: black !important;
+}
+.gray{
+	background-color: gray !important;
+}
+.black{
+	background-color: black !important;
+}
+.gray{
+	background-color: gray !important;
+}
+.black{
+	background-color: black !important;
+}
+.gray{
+	background-color: gray !important;
+}
+.black{
+	background-color: black !important;
+}
+.gray{
+	background-color: gray !important;
+}
+.black{
+	background-color: black !important;
+}
+
+.container {
+	clear: both;
+     margin-left: auto;
+    margin-right: auto;	
+	display: block;
+    position: relative;
+	border: 1px solid red;	
+	align-content: center;
+}
+.container:after{
+    clear: both;
+    content: "";
+    display: block;
+	 margin-left: auto;
+    margin-right: auto;
+}
